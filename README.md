@@ -1,4 +1,2 @@
-# LongSumm
-Long Summarization of scientific research papers
-There are abstractive summarization and extractive summarization techniques
-The summary should be less than 600 words
+# Machine learning with Python IBM course
+This repo contains all the solved assignments and notes of Machine Learning with Python course on coursera learning platform.
